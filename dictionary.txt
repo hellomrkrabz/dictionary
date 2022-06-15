@@ -1,0 +1,4 @@
+word
+defintion 1
+word2
+definition2
